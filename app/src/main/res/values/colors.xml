@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_deep">#1E2732</color>
+    <color name="input_surface">#2C3642</color>
+    <color name="accent_teal">#4DB6AC</color>
+
+    <color name="bg_start">#151B22</color> <color name="bg_end">#1E2732</color>   <color name="input_bg">#402C3642</color>     <color name="input_stroke">#804DB6AC</color> <color name="btn_start">#4DB6AC</color> <color name="btn_end">#80CBC4</color>   <color name="text_primary">#ECEFF1</color>
+    <color name="text_hint">#90A4AE</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="solid_slate">#111827</color>
+</resources>
