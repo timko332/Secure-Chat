@@ -14,14 +14,6 @@
 
 ---
 
-## 📱 App Interface
-
-| **Scan & Connect** | **Security Check** | **Secure Chat** |
-|:---:|:---:|:---:|
-| ![Scan Screen](https://via.placeholder.com/250x500?text=Scan+List) | ![Auth Screen](https://via.placeholder.com/250x500?text=Security+Code) | ![Chat Screen](https://via.placeholder.com/250x500?text=Chat+UI) |
-
----
-
 ## 🛠️ Tech Stack
 
 * **Language:** Java
